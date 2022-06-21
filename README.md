@@ -1,3 +1,3 @@
 # Estudiante
-0x5B38Da6a701c568545dCfcB03FcB875f56beddC4
+https://rinkeby.etherscan.io/address/0x40Fd012ACdA3FD3a8F6e4b3DAf9ce58D686dc926
 Juan Ignacio C y Nicolás K. 
